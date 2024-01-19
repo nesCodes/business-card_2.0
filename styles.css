@@ -1,0 +1,23 @@
+body {
+    margin: 20px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    }
+    
+    .avatar {
+    width: 150px;
+    border-radius: 20px;
+    }
+
+.card {
+    width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    background: #005F73;
+    color: #5F0F40;
+    border-bottom: 15px solid #5F0F40;
+    border-radius: 30px;
+    text-shadow: 1px 1px gray;
+}
